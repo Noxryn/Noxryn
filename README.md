@@ -14,6 +14,9 @@
       <strong>🔥 代码提交连续打卡</strong><br/><br/>
       <img src="https://streak-stats.demolab.com/?user=noxryn&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak" />
     </td>
+    <td align="center" width=50%>
+      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noxryn)
+    </td>
   </tr>
   <tr>
     <td align="center" width="50%">

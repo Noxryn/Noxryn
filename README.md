@@ -22,7 +22,7 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://avatars.githubusercontent.com/u/45090349?v=4" />
+<!--<img align="right" width="88" src="https://avatars.githubusercontent.com/u/45090349?v=4" /> -->
 
 <p>&emsp;&emsp;你好，我是 Noxryn。热爱编程、技术探索与开源分享。</p>
 <p>&emsp;&emsp;这里记录了我的代码足迹、技术热情以及开源世界的探索之旅。</p>

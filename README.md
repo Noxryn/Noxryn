@@ -1,14 +1,4 @@
 <div align="center">
-
-  <!-- 敲代码的动图 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
-    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-  </picture>
-
-  <div>&nbsp;</div>
-
   <!-- 个人资料徽标 -->
   <div>
     <a href="https://github.com/noxryn"><img src="https://img.shields.io/badge/GitHub-Noxryn-181717?logo=github" /></a>&emsp;
@@ -24,12 +14,11 @@
 
 </div>
 
-# 🙋 Hello, I'm Noxryn!
+# 🙋 Hello, World!
 
 <table>
   
   <tr>
-    <td>
 
 ### 🤺 About Me
 
@@ -42,7 +31,6 @@
 
 <div>&nbsp;</div>
 
-    </td>
   </tr>
 
 </table>
@@ -89,11 +77,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://ghchart.ravivach.github.io/4096/noxryn" />
   <img src="https://ghchart.ravivach.github.io/4096/noxryn" />
 </picture>
-
-<!-- GitHub 成就奖杯 -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=noxryn&theme=radical&column=4&no-bg=true" alt="GitHub Trophies" />
-</div>
 
 ---
 

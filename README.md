@@ -73,11 +73,10 @@
 
 <!-- 3D 贡献图 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.ravivach.github.io/4096/noxryn" />
-  <source media="(prefers-color-scheme: light)" srcset="https://ghchart.ravivach.github.io/4096/noxryn" />
-  <img src="https://ghchart.ravivach.github.io/4096/noxryn" />
+  <source media="(prefers-color-scheme: dark)" srcset="/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="/profile-3d-contrib/profile-gitblock.svg" />
+  <img src="/profile-night-rainbow.svg" />
 </picture>
-
 ---
 
 <div align="center">

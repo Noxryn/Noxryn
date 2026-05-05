@@ -1,26 +1,24 @@
+<img src="https://raw.githubusercontent.com/noxryn/noxryn/main/Hi.gif" alt="👋 Hi there! I'm Erwin Noxryn." title="👋 I'm Erwin Noxryn."/>
+
+<!-- 个人资料徽标 -->
 <div align="center">
-  <!-- 个人资料徽标 -->
-  <div>
-    <a href="https://github.com/noxryn"><img src="https://img.shields.io/badge/GitHub-Noxryn-181717?logo=github" /></a>&emsp;
-    <img src="https://komarev.com/ghpvc/?username=noxryn&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
+  <div align="center">
+    <a href="https://github.com/noxryn"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+    <a href="erwinnoxryn@163.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   </div>
-
-  <!-- 贪吃蛇贡献图 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/noxryn/noxryn/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/noxryn/noxryn/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/noxryn/noxryn/output/github-contribution-grid-snake.svg">
-  </picture>
-
 </div>
 
-# 🙋 Hello, World!
+<!-- 动态访问计数器 -->
+<div align = "center">
+  <img src="https://komarev.com/ghpvc/?username=noxryn&style=for-the-badge&color=blueviolet&label=Views" alt="访问计数器" />
+  <img src="https://img.shields.io/github/followers/noxryn?style=for-the-badge&color=FF5F6D&labelColor=141321" alt="关注者" />
+  <img src="https://img.shields.io/github/stars/noxryn?style=for-the-badge&color=FFC371&labelColor=141321" alt="星标" />
+</div>
 
-<table>
-  
-  <tr>
+---
 
-### 🤺 About Me
+<!--个人介绍-->
+<h2 align = "center"> 🤺 About Me </h2>
 
 <!--<img align="right" width="88" src="https://avatars.githubusercontent.com/u/45090349?v=4" /> -->
 
@@ -31,45 +29,46 @@
 
 <div>&nbsp;</div>
 
-  </tr>
 
-</table>
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
+  Technology Stack
+</h2>
 
-## 📊 GitHub 数据统计
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,mysql,redis,linux,git,docker&perline=9" />
+</div>
+
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25px" height="25px" style="vertical-align: middle; position: relative; top: -2px;"/>
+ Contribution
+  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25px" height="25px" style="vertical-align: middle; position: relative; top: -2px;"/>
+</h2>
+
+<div align="center">
+<!-- 添加动态数据卡片 -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=noxryn&theme=radical" width="33%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=noxryn&theme=radical" width="33%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=noxryn&theme=radical" width="33%" />
+
+</div>
 
 <!-- 基础 Metrics 统计 -->
 <img src="/github-metrics.svg" alt="Metrics" />
 
-<!-- GitHub 综合数据 + 语言分布 -->
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=noxryn&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noxryn&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+ <!-- 贪吃蛇贡献图 -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/noxryn/noxryn/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/noxryn/noxryn/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/noxryn/noxryn/output/github-contribution-grid-snake.svg">
+  </picture>
 
-<!-- 连续提交代码天数 -->
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=noxryn&theme=light&hide_border=true" />
-  <img src="https://streak-stats.demolab.com/?user=noxryn&theme=dark&hide_border=true" />
-</picture>
+<!-- 实时贡献日历热图 -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noxryn&theme=radical" width="100%" />
 
-<!-- GitHub 活动图 -->
-<table>
-  <tr>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=noxryn&theme=react-dark&hide_border=true&area=true&line=ea580c" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=noxryn&theme=xcode" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=noxryn&theme=react-dark&hide_border=true&area=true&line=ea580c" />
-      </picture>
-    </td>
-  </tr>
-</table>
+</div>
 
 <!-- 3D 贡献图 -->
 <picture>
@@ -77,12 +76,15 @@
   <source media="(prefers-color-scheme: light)" srcset="/profile-3d-contrib/profile-gitblock.svg" />
   <img src="/profile-night-rainbow.svg" />
 </picture>
+
 ---
 
-<div align="center">
-  
-![GitHub 徽章](https://img.shields.io/badge/Status-Coding-000000?style=for-the-badge&logo=github)
+<!-- 页脚-->
+<h3 align="center">
+  感谢访问我的 GitHub 主页!
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
+</h3>
 
-> 感谢每一位访问者，是你们的支持让开源精神得以延续。
-
-</div>
+<p align="center">
+  <i>让我们一起探索代码的无限可能!✨</i> 
+</p>

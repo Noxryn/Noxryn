@@ -54,9 +54,6 @@
 
 </div>
 
-<!-- 基础 Metrics 统计 -->
-<img src="/github-metrics.svg" alt="Metrics" />
-
  <!-- 贪吃蛇贡献图 -->
 <div align="center">
   <picture>
@@ -69,14 +66,6 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noxryn&theme=radical" width="100%" />
 
 </div>
-
-<!-- 3D 贡献图 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="/profile-3d-contrib/profile-gitblock.svg" />
-  <img src="/profile-night-rainbow.svg" />
-</picture>
-
 ---
 
 <!-- 页脚-->

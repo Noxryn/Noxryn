@@ -46,11 +46,11 @@
   <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25px" height="25px" style="vertical-align: middle; position: relative; top: -2px;"/>
 </h2>
 
-<div align="center">
 <!-- 添加动态数据卡片 -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=noxryn&theme=radical" width="33%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=noxryn&theme=radical" width="33%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=noxryn&theme=radical" width="33%" />
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=noxryn&theme=radical" width="33%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=noxryn&theme=radical" width="33%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=noxryn&theme=radical" width="33%" />
 
 </div>
 

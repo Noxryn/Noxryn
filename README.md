@@ -17,19 +17,20 @@
 
 ---
 
-<!--个人介绍-->
-<h2 align = "center"> 🤺 About Me </h2>
+<!-- 个人介绍 -->
+<h2 align = "center"> 
+ <img src="https://media.giphy.com/media/Sqlj82Xy4eZKSU9iVM/giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
+About Me 
+ </h2>
 
-<!--<img align="right" width="88" src="https://avatars.githubusercontent.com/u/45090349?v=4" /> -->
+<div>
+&emsp;&emsp;Hello, I'm <b>Noxryn</b>  <br>
+&emsp;&emsp;A novice developer specializing in server development.  <br> 
+&emsp;&emsp;This section records my code trails, my passion for technology, and my exploration journey in the open-source world. <br>
+&emsp;&emsp;<b>From zero to hero, one line at a time.</b>
+</div>
 
-<p>&emsp;&emsp;你好，我是 Noxryn。热爱编程、技术探索与开源分享。</p>
-<p>&emsp;&emsp;这里记录了我的代码足迹、技术热情以及开源世界的探索之旅。</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
-<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
-
-<div>&nbsp;</div>
-
-
+<!-- 技术栈 -->
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
   Technology Stack
@@ -39,7 +40,7 @@
   <img src="https://skillicons.dev/icons?i=cpp,c,java,python,mysql,redis,linux,git,docker&perline=9" />
 </div>
 
-
+<!-- 社区贡献 -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25px" height="25px" style="vertical-align: middle; position: relative; top: -2px;"/>
  Contribution
@@ -54,26 +55,16 @@
 
 </div>
 
- <!-- 贪吃蛇贡献图 -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/noxryn/noxryn/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/noxryn/noxryn/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/noxryn/noxryn/output/github-contribution-grid-snake.svg">
-  </picture>
-
 <!-- 实时贡献日历热图 -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noxryn&theme=radical" width="100%" />
-
 </div>
----
 
 <!-- 页脚-->
 <h3 align="center">
-  感谢访问我的 GitHub 主页!
+  Thank you for visiting my GitHub homepage!
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
 </h3>
 
 <p align="center">
-  <i>让我们一起探索代码的无限可能!✨</i> 
+  <i>Let's explore the infinite possibilities of code together!✨</i> 
 </p>

@@ -29,7 +29,7 @@ About Me
 
 <div>
 &emsp;&emsp;Hello, I'm <b>Noxryn</b>  <br>
-&emsp;&emsp;A novice developer specializing in server development.  <br> 
+&emsp;&emsp;A server developer still in the crawling phase, but coding with relentless curiosity.  <br> 
 &emsp;&emsp;This section records my code trails, my passion for technology, and my exploration journey in the open-source world. <br>
 &emsp;&emsp;<b>From zero to hero, one line at a time.</b>
 </div>
